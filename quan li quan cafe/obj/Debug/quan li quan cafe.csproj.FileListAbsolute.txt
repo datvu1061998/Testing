@@ -1,0 +1,7 @@
+F:\quan li quan cafe\quan li quan cafe\bin\Debug\quan li quan cafe.exe.config
+F:\quan li quan cafe\quan li quan cafe\bin\Debug\quan li quan cafe.exe
+F:\quan li quan cafe\quan li quan cafe\bin\Debug\quan li quan cafe.pdb
+F:\quan li quan cafe\quan li quan cafe\obj\Debug\quan li quan cafe.csprojResolveAssemblyReference.cache
+F:\quan li quan cafe\quan li quan cafe\obj\Debug\quan li quan cafe.csproj.CoreCompileInputs.cache
+F:\quan li quan cafe\quan li quan cafe\obj\Debug\quan li quan cafe.exe
+F:\quan li quan cafe\quan li quan cafe\obj\Debug\quan li quan cafe.pdb
